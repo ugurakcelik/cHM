@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642538237 source:c:\users\ugura\desktop\ceng\zc\test3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

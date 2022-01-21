@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640098893 source:c:\users\ugura\desktop\c-programming-master-language\projects\lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

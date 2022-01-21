@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640883189 source:c:\users\ugura\desktop\c-programming-master-language\projects\test4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1642371294 source:c:\users\ugura\desktop\ceng\zc\test4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1642432053 source:c:\users\ugura\desktop\ceng\zc\findmaxinarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
